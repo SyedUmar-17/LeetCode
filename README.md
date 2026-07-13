@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/SyedUmar-17/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1021-remove-outermost-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
 |  |
