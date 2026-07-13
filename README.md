@@ -10,4 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SyedUmar-17/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SyedUmar-17/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
