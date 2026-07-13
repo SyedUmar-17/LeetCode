@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SyedUmar-17/LeetCode/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0263-ugly-number) |
 ## Recursion
 |  |
 | ------- |
