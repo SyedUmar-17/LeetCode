@@ -37,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
