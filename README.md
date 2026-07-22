@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3921-score-validator](https://github.com/SyedUmar-17/LeetCode/tree/master/3921-score-validator) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1929-concatenation-of-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
 | [3921-score-validator](https://github.com/SyedUmar-17/LeetCode/tree/master/3921-score-validator) |
 <!---LeetCode Topics End-->
