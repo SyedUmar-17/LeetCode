@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/SyedUmar-17/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -68,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
