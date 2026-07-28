@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SyedUmar-17/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SyedUmar-17/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0263-ugly-number) |
+| [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
