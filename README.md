@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SyedUmar-17/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/SyedUmar-17/LeetCode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/SyedUmar-17/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/SyedUmar-17/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
