@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SyedUmar-17/LeetCode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/SyedUmar-17/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/SyedUmar-17/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SyedUmar-17/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SyedUmar-17/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SyedUmar-17/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SyedUmar-17/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Number Theory
 |  |
