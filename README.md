@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/SyedUmar-17/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyedUmar-17/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyedUmar-17/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
