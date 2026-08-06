@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SyedUmar-17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyedUmar-17/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SyedUmar-17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SyedUmar-17/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SyedUmar-17/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SyedUmar-17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/SyedUmar-17/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/SyedUmar-17/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Matrix
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SyedUmar-17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
