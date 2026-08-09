@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/SyedUmar-17/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/SyedUmar-17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/SyedUmar-17/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Sorting
 |  |
 | ------- |
