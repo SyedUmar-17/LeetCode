@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SyedUmar-17/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/SyedUmar-17/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/SyedUmar-17/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SyedUmar-17/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/SyedUmar-17/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SyedUmar-17/LeetCode/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SyedUmar-17/LeetCode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
