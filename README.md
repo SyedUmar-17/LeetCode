@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/SyedUmar-17/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1598-crawler-log-folder](https://github.com/SyedUmar-17/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/SyedUmar-17/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SyedUmar-17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3921-score-validator](https://github.com/SyedUmar-17/LeetCode/tree/master/3921-score-validator) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SyedUmar-17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SyedUmar-17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyedUmar-17/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SyedUmar-17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
