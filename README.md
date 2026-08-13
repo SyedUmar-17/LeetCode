@@ -153,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SyedUmar-17/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SyedUmar-17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SyedUmar-17/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
