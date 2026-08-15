@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SyedUmar-17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SyedUmar-17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/SyedUmar-17/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SyedUmar-17/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SyedUmar-17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/SyedUmar-17/LeetCode/tree/master/0112-path-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
