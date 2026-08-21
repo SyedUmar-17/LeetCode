@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SyedUmar-17/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/SyedUmar-17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
+| [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SyedUmar-17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SyedUmar-17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
+| [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -182,4 +184,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SyedUmar-17/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
