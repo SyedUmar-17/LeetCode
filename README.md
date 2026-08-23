@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SyedUmar-17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3895-count-digit-appearances](https://github.com/SyedUmar-17/LeetCode/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/SyedUmar-17/LeetCode/tree/master/1598-crawler-log-folder) |
 | [1929-concatenation-of-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/2460-apply-operations-to-an-array) |
+| [3895-count-digit-appearances](https://github.com/SyedUmar-17/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3921-score-validator](https://github.com/SyedUmar-17/LeetCode/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
