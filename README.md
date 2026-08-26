@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SyedUmar-17/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SyedUmar-17/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SyedUmar-17/LeetCode/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/SyedUmar-17/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/SyedUmar-17/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/SyedUmar-17/LeetCode/tree/master/0455-assign-cookies) |
 | [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
@@ -197,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SyedUmar-17/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/SyedUmar-17/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
