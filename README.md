@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/SyedUmar-17/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/SyedUmar-17/LeetCode/tree/master/0507-perfect-number) |
 | [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
+| [1952-three-divisors](https://github.com/SyedUmar-17/LeetCode/tree/master/1952-three-divisors) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SyedUmar-17/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3895-count-digit-appearances](https://github.com/SyedUmar-17/LeetCode/tree/master/3895-count-digit-appearances) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SyedUmar-17/LeetCode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/SyedUmar-17/LeetCode/tree/master/1952-three-divisors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SyedUmar-17/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -209,4 +211,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SyedUmar-17/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SyedUmar-17/LeetCode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SyedUmar-17/LeetCode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SyedUmar-17/LeetCode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
