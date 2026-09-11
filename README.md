@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/SyedUmar-17/LeetCode/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/SyedUmar-17/LeetCode/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/SyedUmar-17/LeetCode/tree/master/0942-di-string-match) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SyedUmar-17/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/SyedUmar-17/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SyedUmar-17/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/SyedUmar-17/LeetCode/tree/master/1598-crawler-log-folder) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SyedUmar-17/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/SyedUmar-17/LeetCode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Enumeration
 |  |
 | ------- |
